@@ -1,1 +1,2 @@
-Welcome C 240
+Welcome to C 240
+Hello June 2022 students
